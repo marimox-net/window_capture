@@ -4,7 +4,7 @@
 ## インストール
 ライブラリは `requirements.txt` からインストールしてください。
 
-```sh
+```
 pip install -r requirements.txt
 ```
 ## できること、できないこと
